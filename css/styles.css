@@ -40,7 +40,6 @@ header {
   margin-left: 40px;
 }
 .nav li a {
-  font-family: "Roboto";
   color: #2e2f42;
   font-size: 16px;
   font-style: normal;
@@ -52,7 +51,6 @@ header {
   margin-right: 156px;
 }
 .contacts-list li a {
-  font-family: "Roboto";
   color: #434455;
   font-size: 16px;
   font-style: normal;
@@ -74,7 +72,6 @@ h2 {
   background-color: #2e2f42;
 }
 h1 {
-  font-family: "Roboto";
   color: #fff;
   text-align: center;
   font-size: 56px;
@@ -83,7 +80,6 @@ h1 {
   letter-spacing: 1.12px;
 }
 .order-service-button {
-  font-family: "Roboto";
   background-color: #4d5ae5;
   color: #fff;
   font-size: 16px;
@@ -104,7 +100,6 @@ h1 {
   letter-spacing: 0.4px;
 }
 .advantage-description {
-  font-family: "Roboto";
   color: #434455;
   font-size: 16px;
   font-weight: 400;
@@ -130,7 +125,6 @@ h1 {
 .team-member-name {
   color: #2e2f42;
   text-align: center;
-  font-family: "Roboto";
   font-size: 20px;
   font-weight: 500;
   line-height: 24px;
@@ -139,7 +133,6 @@ h1 {
 .team-member-role {
   color: #434455;
   text-align: center;
-  font-family: "Roboto";
   font-size: 16px;
   font-weight: 400;
   line-height: 24px;
@@ -162,7 +155,6 @@ h1 {
 }
 .portfolio-list-item-description {
   color: #434455;
-  font-family: "Roboto";
   font-size: 16px;
   font-weight: 400;
   line-height: 24px;
@@ -182,7 +174,6 @@ footer {
 }
 .footer-text {
   color: #f4f4fd;
-  font-family: "Roboto";
   font-size: 16px;
   font-weight: 400;
   line-height: 24px;
