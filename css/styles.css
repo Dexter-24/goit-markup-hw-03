@@ -62,6 +62,7 @@ ul {
   line-height: 1.11;
   letter-spacing: 0.72px;
   text-transform: capitalize;
+  text-align: center;
 }
 .baner {
   background-color: #2e2f42;
@@ -72,6 +73,7 @@ ul {
   font-weight: 700;
   line-height: 1.07;
   letter-spacing: 1.12px;
+  text-align: center;
 }
 .order-service-button {
   font-family: "Roboto", sans-serif;
