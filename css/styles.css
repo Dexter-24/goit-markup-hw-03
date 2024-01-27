@@ -9,18 +9,14 @@ a {
 ul {
   list-style-type: none;
 }
-header {
-  justify-content: center;
-  align-items: center;
-  flex-shrink: 0;
-}
+
 .logo {
   color: #4d5ae5;
   font-family: "Raleway", sans-serif;
   font-size: 18px;
   font-style: normal;
   font-weight: 700;
-  line-height: 1.17x;
+  line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
 }
@@ -61,7 +57,6 @@ header {
 }
 .section-title {
   color: #2e2f42;
-  text-align: center;
   font-size: 36px;
   font-weight: 700;
   line-height: 1.11;
@@ -73,7 +68,6 @@ header {
 }
 .main-heading {
   color: #fff;
-  text-align: center;
   font-size: 56px;
   font-weight: 700;
   line-height: 1.07;
@@ -117,7 +111,6 @@ header {
 }
 .team-member-name {
   color: #2e2f42;
-  text-align: center;
   font-size: 20px;
   font-weight: 500;
   line-height: 24px;
@@ -125,7 +118,6 @@ header {
 }
 .team-member-role {
   color: #434455;
-  text-align: center;
   font-size: 16px;
   font-weight: 400;
   line-height: 24px;
