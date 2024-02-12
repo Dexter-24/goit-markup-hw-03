@@ -74,6 +74,7 @@ img {
 }
 .contacts {
   font-style: normal;
+  margin: auto 0;
 }
 .contacts-list {
   display: flex;
